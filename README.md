@@ -8,9 +8,8 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
   </div>
-  ##Hi there! 👋
 </div>
-
+##Hi there! 👋
 
 ## About me:
 blablabla
