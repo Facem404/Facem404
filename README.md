@@ -11,10 +11,10 @@
   <h1>Hi there! 👋</h1>
 </div>
 
----
+
 ## About me:
 blablabla
----
+
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
