@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47xdivagj0xj34ai6q8ig3l9selnnvi50cx5r50xge&rid=giphy.gif&ct=g" width="100"/>
+</div>
 
 <!--
 **Facem404/Facem404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
