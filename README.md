@@ -10,7 +10,7 @@
   </div>
   <h1>Hi there! 👋</h1>
 </div>
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="55" height="55">
@@ -27,3 +27,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="55" height="55">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="55" height="55">
 </div>
+---
