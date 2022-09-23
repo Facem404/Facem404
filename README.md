@@ -33,4 +33,4 @@ blablabla
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="55" height="55">
 </div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Facem404)](https://git.io/streak-stats)
