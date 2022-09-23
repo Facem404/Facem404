@@ -10,7 +10,7 @@
   </div>
 </div>
 
-## Hi there! 👋
+<center> <h1>Hi there! 👋</h1> </center>
 
 ## About me:
 blablabla
