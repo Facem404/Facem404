@@ -15,8 +15,8 @@
 <h2>About me: </h2>
 blablabla
 
+<h2>:hammer_and_wrench: Languages and Tools: </h2>
 
-## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="55" height="55">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="55" height="55">
