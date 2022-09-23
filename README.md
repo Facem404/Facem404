@@ -31,6 +31,8 @@ blablabla
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="55" height="55">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="55" height="55">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="55" height="55">
+</div
+  >
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Facem404&theme=dark&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Facem404)](https://git.io/streak-stats)
