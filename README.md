@@ -12,7 +12,7 @@
 
 <h1 align="center">Hi there! 👋</h1>
 
-## About me:
+<h2>About me: </h2>
 blablabla
 
 
