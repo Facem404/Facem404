@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47xdivagj0xj34ai6q8ig3l9selnnvi50cx5r50xge&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" width="100"/>
 </div>
 
 <!--
