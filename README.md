@@ -20,6 +20,8 @@
   <li>💼Feel free to explore my LinkedIn profile</li>
 </ul>
 
+<div align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"></div>
+
 <h2>:hammer_and_wrench: Languages and Tools: </h2>
 
 <div>
