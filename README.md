@@ -12,8 +12,13 @@
 
 <h1 align="center">Hi there! 👋</h1>
 
-<h2>About me: </h2>
-blablabla
+<h2>📍About me: </h2>
+<ul>
+  <li>🌱Born in Buenos Aires, Argentina on June 27, 2001 </li>
+  <li>⚡Fullstack Web Developer since May 2022</li>
+  <li>📚Bachelor's degree student in Computer Engineering</li>
+  <li>💼Feel free to explore my LinkedIn profile</li>
+</ul>
 
 <h2>:hammer_and_wrench: Languages and Tools: </h2>
 
@@ -31,8 +36,7 @@ blablabla
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="55" height="55">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="55" height="55">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="55" height="55">
-</div
-  >
+</div>
 <h2>🕹My stats:</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Facem404&theme=dark&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats) 
