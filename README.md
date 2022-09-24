@@ -12,6 +12,8 @@
 
 <h1 align="center">Hi there! 👋</h1>
 
+<div align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50%" height="50%"></div>
+
 <h2>📍About me: </h2>
 <ul>
   <li>🌱Born in Buenos Aires, Argentina on June 27, 2001 </li>
@@ -19,8 +21,6 @@
   <li>📚Bachelor's degree student in Computer Engineering</li>
   <li>💼Feel free to explore my LinkedIn profile</li>
 </ul>
-
-<div align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50%" height="50%"></div>
 
 <h2>:hammer_and_wrench: Languages and Tools: </h2>
 
